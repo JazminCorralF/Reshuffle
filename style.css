@@ -1,0 +1,23 @@
+body{
+    color: whitesmoke; 
+    /*Ponerle color a la letra*/
+    background-color: rgb(22, 22, 99);
+    /*Ponerle color al fondo*/
+    font-family: 'Oxygen', sans-serif;
+    /*Elegir la fuente*/ 
+}
+h1 {
+    color: yellow; /*Color del titulo*/
+    font-size: 30px; /*Tamaño de letra*/
+}
+
+img {
+    width: 400px; /*Ancho*/
+    height: 250px; /*Largo*/
+    padding: 20px; /*Separación entre imagenes*/
+    margin: 20px; /*Margen*/
+}
+footer {
+    background-color: beige;
+    color: blue;
+}
